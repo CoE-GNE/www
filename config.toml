@@ -5,7 +5,7 @@ title = "H S Rai"
 # 2. Type # at the beginning of above line
 
 # 2. Remove # from line below and replace hsrai with your userID at github 
-baseURL = "https://CoE-GNE.github.io"
+baseURL = "https://CoE-GNE.github.io/www"
 
 # 2. Remove # from line below
 publishDir = "docs"
